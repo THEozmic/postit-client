@@ -1,0 +1,1 @@
+Client side app for the PostIt project
